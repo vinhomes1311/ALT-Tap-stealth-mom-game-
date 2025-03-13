@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740637612 source:c:\users\admin\documents\code block\codeblock\vinh\main.cpp
+	<iostream>
+	<SDL.h>
+
