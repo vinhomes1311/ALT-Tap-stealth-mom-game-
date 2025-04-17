@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1743670521 source:c:\users\admin\documents\code block\alt+tap\roleofson.cpp
+	"roleOfSon.h"
+
+1743671069 c:\users\admin\documents\code block\alt+tap\roleofson.h
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1744419695 source:c:\users\admin\documents\code block\alt+tap\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"roleOfSon.h"
+	"roleOfMom.h"
+
+1743671532 source:c:\users\admin\documents\code block\alt+tap\roleofmon.cpp
+	"roleOfSon.h"
+	<algorithm>
+
+1744418092 source:c:\users\admin\documents\code block\alt+tap\roleofmom.cpp
+	<iostream>
+	<SDL.h>
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1743673114 c:\users\admin\documents\code block\alt+tap\roleofmom.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<random>
+
