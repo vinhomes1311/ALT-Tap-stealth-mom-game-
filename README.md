@@ -2,7 +2,7 @@
 
 Một trò chơi hành động lén lút hài hước, nơi bạn vào vai Tuấn, một cậu bé đang tìm cách trốn học để chơi game, và Mẹ Tuấn, người luôn rình mò kiểm tra bất ngờ để bắt quả tang con mình "phá phách". Trò chơi mô phỏng lại tình huống kinh điển của biết bao thế hệ học sinh Việt Nam – với phong cách hoạt hình vui nhộn, nhạc nền đặc trưng, và sự căng thẳng đến nghẹt thở mỗi khi... mẹ vào phòng!
 
-VIDEO demo về game: https://drive.google.com/file/d/1aijoEcKA7pXxa6MkUI2FRbXyXm4wq3D8/view?usp=drive_link
+VIDEO demo về game: https://drive.google.com/drive/my-drive?fbclid=IwY2xjawJrVXBleHRuA2FlbQIxMAABHu0ND9V9npkerHHuhIb5bA0qqYym43laq9SEUu3vWwO9ohcGzCBf27cUqvJ-_aem__QHM1SZb957ugrxH5FIIGQ
 
 🧠 **1. Ý TƯỞNG**
 
